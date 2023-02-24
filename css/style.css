@@ -1,0 +1,127 @@
+.wrapper {
+    display: flex;
+    flex-direction: row-reverse;
+    border-radius: 25px;
+    filter: drop-shadow(0px 0px 100px rgba(0, 110, 255, 0.719));
+    padding: 200px 200px 200px 200px;
+}
+
+.backround {
+    background-color: #FFFFFF;
+    width: 877px;
+    height: 1319px;
+    border: 2px groove #0C0C0C;
+    border-left-color: white ;
+}
+
+.sidebar {
+    background-color: #bad3fd;
+    border-radius: 101px 0px 0px 0px;
+
+    width: 370px;
+    height: 1319px;
+    border: 2px groove #0C0C0C;
+}
+
+.fon {
+    background-color: #E5E5E5;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.profesion {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+
+}
+
+.about-me {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+    
+    
+    color: #A8A8A8;
+}
+
+.main-kontent {
+    padding: 43px 322px 64px 30px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.pon {
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.projects {
+    padding: 0px 265px 51px 30px;
+
+}
+
+.work {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.work-exp {
+    padding: 0px 265px 10px 30px;
+}
+
+.educ {
+    padding: 0px 492px 102px 30px
+}
+
+.foto {
+    padding: 0px 0px 51px 0px;    
+    filter: drop-shadow(1px 20px 10px rgba(55, 120, 204, 0.534));
+    border-radius: 100px 0px;
+}
+
+.contact {
+    padding: 0px 139px 47px 40px;
+    filter: drop-shadow(0px 4px 3px rgba(0, 0, 0, 0.25));
+    
+}
+
+.t-skills{
+    padding: 0px 209px 44px 40px;
+    filter: drop-shadow(0px 4px 3px rgba(0, 0, 0, 0.25));
+}
+
+.s-skills{
+    padding: 0px 217px 366px 40px;
+    filter: drop-shadow(0px 4px 3px rgba(0, 0, 0, 0.25));
+}
+
+.topper {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+}
+
+.pppp {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.pp {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.blue {
+    color: #6D9BF5
+}
+
